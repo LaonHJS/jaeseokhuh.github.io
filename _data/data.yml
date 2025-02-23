@@ -176,25 +176,25 @@ projects:
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+publications:
+  title: Under Review 
+  papers:
+  - title: A Genetic Algorithm with Feasibility-Agnostic Encoding and Three-Phase Decoding for Scheduling Semiconductor Manufacturing Facilities under Constrained Queue Time    
+    authors: Park, I., & Huh, J.*
+    conference: Addison-Wesley, 1968
 
-  - title: Atom
+  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: Delta
+  - title: A syntax directed compiler for Algol 60
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    authors: Edgar T. Irons
+    conference: "Comm. ACM 4 (1961), 51–55"
 
 publications:
-  title: Publications
+  title: International Journal Publications
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
