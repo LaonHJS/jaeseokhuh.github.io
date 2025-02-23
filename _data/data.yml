@@ -181,7 +181,7 @@ publications:
   papers:
   - title: A Genetic Algorithm with Feasibility-Agnostic Encoding and Three-Phase Decoding for Scheduling Semiconductor Manufacturing Facilities under Constrained Queue Time    
     authors: Park, I., & Huh, J.*
-    conference: Addison-Wesley, 1968
+    conference: submitted to Swarm and Evolutionary Computation
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
