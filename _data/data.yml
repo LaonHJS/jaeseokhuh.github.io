@@ -214,6 +214,17 @@ publications:
     link: "#"
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
+  intro: |
+    dfddbibendum fringilla a eu lectus.
+  - title: Semi-Supervised Contrastive Learning with Decomposition-based Data Augmentation for Time Series Classification, to Appear in \textit{Intelligent Data Analysis
+    link: "https://content.iospress.com/articles/intelligent-data-analysis/ida240002"
+    authors: Kim, D., Cho, S., Chae, H., Park, J.,  & Huh, J.*
+    conference: to Appear in Intelligent Data Analysis
+  
+  - title:  A Generation and Repair Approach to Scheduling Semiconductor Packaging Facilities Using Case-based Reasoning
+    link: "https://ieeexplore.ieee.org/abstract/document/10129182"
+    authors: Park, I., Huh, J.*, & Park, J.
+    conference: to Appear in Intelligent Data Analysis
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
